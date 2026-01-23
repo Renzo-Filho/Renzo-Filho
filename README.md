@@ -4,7 +4,7 @@ I am a Computer Science student at the University of São Paulo (IME-USP). My re
 
 My main focus right now is academic research (Iniciação Científica), where I am exploring Computer Vision and Machine Learning techniques to understand pedestrian behavior and urban infrastructure.
 
-**About Me:**
+#### About Me
 * 🔬 Passionate about solving problems using data analysis and image processing.
 * 🌱 Improving my skills in Python and Linux environments.
 * 📍 Brazil.
