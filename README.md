@@ -2,7 +2,7 @@
 
 I am a Computer Science student at the University of São Paulo (IME-USP). My repositories primarily document my academic journey, including course projects and scientific research.
 
-My main focus right now is academic research (Iniciação Científica), where I am exploring Computer Vision and Machine Learning techniques to understand pedestrian behavior and urban infrastructure.
+My main focus right now is academic research (Iniciação Científica), where I am exploring Computer Vision and Machine Learning techniques to understand and enhance urban accessibility.
 
 #### About Me
 * 🔬 Passionate about solving problems using data analysis and image processing.
