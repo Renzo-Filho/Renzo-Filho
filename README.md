@@ -2,11 +2,11 @@
 
 I am a Computer Science student at the University of São Paulo (IME-USP). My repositories primarily document my academic journey, including course projects and scientific research.
 
-My main focus right now is academic research, where I am exploring Computer Vision and Machine Learning techniques to understand and enhance urban accessibility.
+My main focus right now is my academic research, where I am exploring Computer Vision and Machine Learning techniques to understand and enhance urban accessibility.
 
 #### About Me
-* 🔬 Passionate about solving problems using data analysis and image processing.
-* 🌱 Improving my skills in Python and Linux environments.
+* 🔬 Passionate about solving problems using data analysis, AI and Computer Vision.
+* 🌱 Always improving my skills in Python and Linux environments.
 * 📍 Brazil.
   
 ### 🛠 Languages & Tools
